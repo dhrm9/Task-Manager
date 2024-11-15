@@ -1,5 +1,7 @@
 # Task Management Application
 
+## Live Link: https://task-manager-j8qb.vercel.app/
+
 ## Objective:
 Develop a straightforward task management application focusing on core functionality and a user-friendly interface.
 
